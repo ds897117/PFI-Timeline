@@ -6,7 +6,7 @@ body {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   color: #003f70;
-  background-color: #ffffff;
+  background-color: #transparent;
   padding: 0 25px;
   display: flex;
   flex-direction: column;
